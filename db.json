@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Product 1",
+      "price": 278,
+      "description": "Product 1 with its own description"
+    },
+    {
+      "id": "2",
+      "title": "Product 2",
+      "price": 78,
+      "description": "Product 2 with its own description"
+    },
+    {
+      "id": "3",
+      "title": "Product 3",
+      "price": 26,
+      "description": "Product 3 with its own description"
+    },
+    {
+      "id": "4",
+      "title": "Product 4",
+      "price": 90,
+      "description": "Product 4 with its own description"
+    },
+    {
+      "id": "5",
+      "title": "Product 5",
+      "price": 35,
+      "description": "Product 5 with its own description"
+    },
+    {
+      "id": "6",
+      "title": "Product 6",
+      "price": 15,
+      "description": "Product 6 with its own description"
+    },
+    {
+      "id": "7",
+      "title": "Product 7",
+      "price": 89,
+      "description": "Product 7 with its own description"
+    },
+    {
+      "id": "8",
+      "title": "Product 8",
+      "price": 58,
+      "description": "Product 8 with its own description"
+    },
+    {
+      "id": "9",
+      "title": "Product 9",
+      "price": 36,
+      "description": "Product 9 with its own description"
+    },
+    {
+      "id": "10",
+      "title": "Product 10",
+      "price": 10,
+      "description": "Product 10 with its own description"
+    },
+    {
+      "id": "11",
+      "title": "Product 11",
+      "price": 17,
+      "description": "Product 11 with its own description"
+    },
+    {
+      "id": "12",
+      "title": "Product 12",
+      "price": 69,
+      "description": "Product 12 with its own description"
+    },
+    {
+      "id": "13",
+      "title": "Product 13",
+      "price": 59,
+      "description": "Product 13 with its own description"
+    },
+    {
+      "id": "14",
+      "title": "Product 14",
+      "price": 78,
+      "description": "Product 14 with its own description"
+    },
+    {
+      "id": "15",
+      "title": "Product 15",
+      "price": 25,
+      "description": "Product 15 with its own description"
+    },
+    {
+      "id": "16",
+      "title": "Product 16",
+      "price": 45,
+      "description": "Product 16 with its own description"
+    },
+    {
+      "id": "17",
+      "title": "Product 17",
+      "price": 92,
+      "description": "Product 17 with its own description"
+    },
+    {
+      "id": "18",
+      "title": "Product 18",
+      "price": 26,
+      "description": "Product 18 with its own description"
+    },
+    {
+      "id": "19",
+      "title": "Product 19",
+      "price": 166,
+      "description": "Product 19 with its own description"
+    },
+    {
+      "id": "20",
+      "title": "Product 20",
+      "price": 125,
+      "description": "Product 20 with its own description"
+    }
+  ]
+}
